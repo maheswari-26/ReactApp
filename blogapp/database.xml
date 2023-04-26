@@ -1,0 +1,33 @@
+
+{
+   "post1": {
+
+"author": "Jeffry Bartash",
+"title": "Consumer confidence falls to 9-month low on worries about jobs and recession - MarketWatch",
+"description": "Consumer confidence index drops to 101.3 in April",
+"url": "https://www.marketwatch.com/story/consumer-confidence-falls-to-9-month-low-on-recession-worries-and-softer-jobs-market-d400726e",
+"urlToImage": "https://images.mktw.net/im-769583/social",
+"publishedAt": "2023-04-25T14:06:00Z",
+"content": "The numbers: A survey of consumer confidence fell in April to a nine-month low of 101.3, reflecting nagging worries about a possible recession and a softening labor market. \r\nThe closely followed ind… [+172 chars]"
+},
+"post2": {
+"author": "Rebecca Picciotto",
+"title": "The 10 highest-paying internships of 2023, according to Glassdoor—some pay over $9,000 a month - CNBC",
+"description": "Stripe will compensate interns the most this year, with an average monthly internship salary of over $9,000, according to a new Glassdoor study.",
+"url": "https://www.cnbc.com/2023/04/25/glassdoor-report-highest-paying-internships-2023.html",
+"urlToImage": "https://image.cnbcfm.com/api/v1/image/107230151-1682367399917-gettyimages-646805636-pi-1474679.jpeg?v=1682430868&w=1920&h=1080",
+"publishedAt": "2023-04-25T13:54:28Z",
+"content": "Online payment processor Stripe will compensate interns the most this year, with an average monthly internship salary of over $9,000 per month, according to a report from jobs data site Glassdoor. St… [+4010 chars]"
+},
+
+"post4": {
+"author": "Leslie Josephs",
+"title": "Travel recovery boosts jet engine units at GE and Raytheon - CNBC",
+"description": "The engine sales increase comes as Boeing and Airbus are trying to boost aircraft production.",
+"url": "https://www.cnbc.com/2023/04/25/travel-recovery-boosts-jet-engine-units-at-ge-and-raytheon.html",
+"urlToImage": "https://image.cnbcfm.com/api/v1/image/107230503-1682424255635-gettyimages-95943801-GE_EARNS.jpeg?v=1682429657&w=1920&h=1080",
+"publishedAt": "2023-04-25T13:34:17Z",
+"content": "A recovery in air travel is lifting sales and repairs at the aircraft engine units of General Electric and Raytheon Technologies as Boeing and Airbus scramble to increase their production rates of ne… [+1329 chars]"
+}
+}
+
